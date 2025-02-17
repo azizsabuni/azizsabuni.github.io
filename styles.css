@@ -1,0 +1,90 @@
+      h1 {
+ text-align: center;
+ font-size: 200%;
+ 
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+body{
+     background-image: url(background.jpg);
+        background-size: cover;
+        padding: 20px;        
+
+}
+.menu{
+    width:80%;
+    background-color: #f1f1f1;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 3px;
+    border-radius: 20px;
+    opacity: 0.9;
+       
+        
+}
+.cats{
+     font-size: 200%;
+}
+
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-radius: 90%;
+    border-color: brown;
+  }
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  h2{
+    text-align: center;
+    font-size: 200%;
+    width:100%;
+    background-color: rgba(71, 0, 0, 0.629);
+    color: rgba(0, 0, 0, 0.82);
+    border-radius: 20px;
+  }  
+  .aziz{
+    text-align: center;
+    font-size: 130%;
+    width:100%;
+    background-color: rgba(71, 0, 0, 0.288);    
+    color: rgb(0, 0, 0);
+  }
+  .mamak{
+    text-align: center;
+    background-color: rgb(191, 182, 182);
+    border-radius: 20px;
+    width:100%;
+    font-size: 100%;
+    border-color: rgb(255, 125, 85);
+    }
+    .mamak2{
+        text-align: center;
+        background-color: rgb(191, 182, 182);
+        border-radius: 20px;
+        width:100%;
+        font-size: 100%;
+        border-color: rgb(255, 125, 85);
+    }
+
+  
+  
